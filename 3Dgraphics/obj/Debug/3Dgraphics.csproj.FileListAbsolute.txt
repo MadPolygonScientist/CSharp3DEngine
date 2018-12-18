@@ -1,0 +1,10 @@
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\3Dgraphics.csprojAssemblyReference.cache
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\_3Dgraphics.Form1.resources
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\_3Dgraphics.Properties.Resources.resources
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\3Dgraphics.csproj.GenerateResource.cache
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\3Dgraphics.csproj.CoreCompileInputs.cache
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\bin\Debug\3Dgraphics.exe.config
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\bin\Debug\3Dgraphics.exe
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\bin\Debug\3Dgraphics.pdb
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\3Dgraphics.exe
+C:\Users\Loïc\source\repos\3Dgraphics\3Dgraphics\obj\Debug\3Dgraphics.pdb
